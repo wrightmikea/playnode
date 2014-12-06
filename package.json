@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wrightmikea/playnode/issues"
   },
-  "homepage": "https://github.com/wrightmikea/playnode"
+  "homepage": "https://github.com/wrightmikea/playnode",
+  "dependencies": {
+    "gulp": "^3.8.10"
+  }
 }
