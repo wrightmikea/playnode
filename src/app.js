@@ -16,7 +16,7 @@ router.get('/',function(req,res) {
     //res.send('hi');
     userSave.find({}, function(error, users) {
         res.send(users);
-    })
+    });
 });
 app.use('/api', router);
 app.listen(port);
