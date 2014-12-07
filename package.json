@@ -4,7 +4,7 @@
   "description": "sandbox",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
