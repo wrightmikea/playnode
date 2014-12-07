@@ -11,11 +11,14 @@ setup
 
 1. clone this repo
 2. checkout the develop branch
-3. npm install --save Faker express gulp gulp-jshint save
+3. (Linux) sudo apt-get install build-essential
+4. npm install 
 
 usage
 -----
 
-1. node src/app.js
-2. browse localhost:8080/api
+0. gulp
+1. npm test
+2. node src/app.js
+3. browse localhost:8080/api
 
